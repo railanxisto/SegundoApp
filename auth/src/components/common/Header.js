@@ -18,7 +18,7 @@ const Header = (props) => {
 
 				<View style={headerContentStyle}>
 					<Text style={headerTextStyle}>{ props.headerText }</Text>
-				</View>		
+				</View>
 		</View>
     );
 };
@@ -69,5 +69,4 @@ const styles = {
 };
 
  //Make component available
- export default Header;
-
+ export { Header };
