@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 //import ReactNative from 'react-native';
 import { Text, View, Image } from 'react-native';
